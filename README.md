@@ -8,6 +8,7 @@ Libraries used in the scripts that need to be installed:
 - XlsxWriter
 - matplotlib
 - numpy
+  
 The following libraries are only used in the script graph_statistics.py
 - pandas
 - dtw-python (only used in the script graph_statistics.py)
